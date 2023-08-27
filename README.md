@@ -1,4 +1,4 @@
-# Приложение "Tarkov Website"
+# Tarkov Website
 
 Это простое приложение для Android, которое открывает официальную веб-страницу Escape from Tarkov внутри приложения с помощью компонента WebView.
 
